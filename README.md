@@ -1,6 +1,6 @@
 ### Hi there/Olá, sou o Vítor. :) 👋
 
-**vitoralves18/vitoralves18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**vitoralves18/vitoralves18**
 Estudante de Engenharia de Software Brasileiro/Software Engineer student from Brazil.
 - 🔭 I’m currently working on a website/Fazendo um website.
 - 🌱 I’m currently learning JavaScript, Python, HTML and CSS3/Linguagens de programação que estou aprendendo: JavaScript, Python, HTML, CSS3   
