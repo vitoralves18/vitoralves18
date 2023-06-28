@@ -1,10 +1,18 @@
 Prazer, sou o Vítor. :) 👋
 
 **vitoralves18/vitoralves18**
-Estudante de Engenharia de Software Brasileiro/Software Engineer student from Brazil.
-- 🔭 I’m currently working on a website/Fazendo um website.
-- 🌱 I’m currently learning JavaScript, Python, HTML and CSS3/Linguagens de programação que estou aprendendo: JavaScript, Python, HTML, CSS3   
-- 👯 I’m looking to collaborate on everything/Procuro ajudar em tudo!
-- 💬 Ask me about anything/Me pergunte qualquer coisa.  
-- 📫 How to reach me: vtrrcs2k@gmail.com /Me procure pelo gmail: vtrrcs2k@gmail.com.   
-- ⚡ Fun fact: I've watched The Office(US)6 times in less than 1 year/Assisti The Office inteiro 6 vezes em menos de 1 ano.
+Estudante de Engenharia de Software Brasileiro.
+- 🌱 Linguagens de programação que estou aprendendo: JavaScript, Python, HTML, CSS3     
+- 📫 Me procure pelo gmail: vtrrcs2k@gmail.com.   
+- ⚡ Assisti The Office inteiro 6 vezes em menos de 1 ano.
+
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
