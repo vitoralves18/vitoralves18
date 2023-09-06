@@ -15,7 +15,7 @@ coisas novas e me aprofundar nas que já sei. Atualmente, estou realizando o cur
 
 
 
-## Minhas habilidades
+## My Habilites
 
 #### Main Stack:
 
@@ -27,7 +27,7 @@ coisas novas e me aprofundar nas que já sei. Atualmente, estou realizando o cur
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-#### Estudando no momento:
+#### Studying at the moment:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
