@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-wj7iLP3yFRAutsAgFTVZphOM2z2guKkNtiXRXlrjuNQG_Ns8qRKjC7HXr1wxBxLNaCpazLqhpebDFXxZ2y5S87nR0nBA=w1868-h932"/>
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Prazer, sou o Vítor. :) 👋. <br><br> Estou cursando Engenharia de Software na UniFil. Sou apaixonado por aprender 
+<p align="center">👋. <br><br> Estou cursando Engenharia de Software na UniFil. Sou apaixonado por aprender 
 coisas novas e me aprofundar nas que já sei. Atualmente, estou realizando o curso CS50’s Introduction to Computer Science de Harvard e busco me manter ativo por aqui. As linguagens que mais uso são: <strong>Java</strong> e <strong>Python</strong>.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
