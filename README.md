@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/vitoralves18/vitoralves18/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://lh3.googleusercontent.com/u/0/drive-viewer/AITFw-wj7iLP3yFRAutsAgFTVZphOM2z2guKkNtiXRXlrjuNQG_Ns8qRKjC7HXr1wxBxLNaCpazLqhpebDFXxZ2y5S87nR0nBA=w1868-h932"/>
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">Prazer, sou o Vítor. :) 👋. <br><br> Estou cursando Engenharia de Software na UniFil. Sou apaixonado por aprender 
